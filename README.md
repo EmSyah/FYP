@@ -1,4 +1,4 @@
-# Final Year Project
+# Indoor Receiver Optimization Based Visible Light Using Machine Learning Method
 The project titled "Indoor Receiver Optimization Based Visible Light Using Machine Learning Method" focuses on enhancing the performance of Visible Light Communication (VLC) systems utilized in indoor environments. The primary objective is to optimize the placement of Light Emitting Diodes (LEDs) which serve as both light sources and data transmitters to maximize the power reception of the signals.
 
 The project employs optimization techniques, particularly Particle Swarm Optimization (PSO) and Ant Colony Algorithm (ACA), to determine the most effective layout of LEDs. By improving the arrangement and distribution of these light sources, the project aims to achieve a more uniform distribution of received optical power, thereby enhancing the overall communication quality and coverage in indoor settings.
